@@ -36,10 +36,10 @@ This application demonstrates text processing over a network using Winsock. It e
 
 You'll need to create two separate projects:
 
-- One for the server (TextServer.cpp)
-- One for the client (TextClient.cpp)
+- One for the server (`TextServer.cpp`)
+- One for the client (`TextClient.cpp`)
 
-Both projects should include the common files (text-processing.cpp, network-common.cpp).
+Both projects should include the common files (`TextProcessing.cpp`, `NetworkCommon.cpp`).
 
 ## Running the Application
 
